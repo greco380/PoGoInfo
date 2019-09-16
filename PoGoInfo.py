@@ -1,0 +1,2 @@
+from PoGoInfo import PoGoInfo
+
